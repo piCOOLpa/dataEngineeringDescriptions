@@ -1,0 +1,36 @@
+As a Senior Data Engineer, you will be primary owner and architect, designing and packaging the "Data Pipelines" that powers industrial GenAI. Your mission is to build robust, standard integrations between Cognite Data Fusion (CDF) and the vast ecosystem of supply chain data—from internal SAP/ERP systems to external global visibility platforms like fourkites / project44 and market intelligence syndicates.
+
+Ensure the ingested data is structured , optimised and curated for consumption by the knowledge graph for the supply chain. Prepare and align ingested data for direct consumption by the supply chain knowledge graph, in line with Cognite's data management framework.
+
+You will be part of the CoE team working closely with our global customers and partner ecosystem across industries, and integrating and scaling the knowledge graph with optimised and packaged pipelines from customer and external systems. You will lead discovery workshops, and design sessions. You will incorporate new learning, usable across customers, in the packaged extractors for the supply chain.
+
+You will not just move data; you will shape it. You will own the evolution of our Integrated Supply Chain Solution Model, powered by the Cognite Data Fusion (CDF) Knowledge Graph ensuring that data model is  optimized for traversal by autonomous AI agents.
+
+Work closely with Product, Value Delivery, and partner ecosystems to ensure packaged extractors and integrations are robust, scalable, and aligned with both technical standards and customer expectations
+- with product, to ensure alignment with product standards and quality. Make it product-ready
+- with Value Delivery, to support during initial rollouts or pilot deployments, providing technical depth where needed and helping troubleshoot data pipeline issues and develop a feedback process, in order to capture recurring issues, data quality gaps, and customer-specific constraints — and translate these into improvements to the packaged integrations
+
+- with partner ecosystem like fourkites/ Project44, AWS etc, work directly with technology partners to understand their data models, APIs, and connectivity options, and build reliable, well-documented extractors that bring relevant supply chain data into CDF. Also, collaborate with partners to validate integration assumptions, manage API changes, and progressively enhance packaged connectors as partner platforms evolve
+
+Core Responsibilities
+Architect Standard Integrations: Design, implement and package scalable data pipelines that ingest and normalize data from external logistics aggregators (& syndicate data sources) and internal systems (ERP/MES).
+Data Model Optimization: Enhance and refine the Integrated Supply Chain Solution Model. You will be responsible for defining and packaging the relationships between disparate data points from source systems —such as linking a real-time shipment tracking data from a third-party logistics service provider or a PurchaseOrderLineItem.
+Knowledge Graph Engineering: Build and enhance the graph structures within CDF that allow AI agents to navigate from a Notification (e.g., a delayed ship) to the impacted ProductionSchedule or WorkOrder.
+Advanced DataOps: Lead extractions, data modeling, semantic ontology and build high performant ETL using Python, SQL, and REST APIs, ensuring that industrial data types (time series and contextual events) are "agent-ready". Develop transforms that adapt to data type and frequency, aligned with use case requirements.
+Technical Consultation: Act as a domain expert for customers, guiding them on how to map their complex supply chain topologies into our standardized industrial data models.
+Cross-Functional Innovation: Collaborate with AI Engineers to ensure the data models support complex "Reasoning Workflows" and tool-calling capabilities in ATLAS AI.
+
+The Impact you bring to Cognite
+5-8 Years of Experience: Proven track record in a data-intensive, customer-facing role with a focus on production-grade pipelines.
+External API Integration Expert: Demonstrated experience working with REST APIs for logistics visibility platforms (e.g., FourKites) and market intelligence syndicates.
+Supply Chain Domain Mastery: Deep understanding of supply chain data structures, specifically TMS, WMS and Procurement (MM), Production (PP), and Maintenance (PM) modules in SAP or similar ERPs and other Supply Planning suites
+Knowledge Graph & Relational Modeling: Expertise in designing complex data schemas. You should be able to optimize models for both relational queries and graph traversals.
+Cloud-Native Tech Stack: Proficiency in Python, SQL, and working knowledge of cloud platforms like  AWS, GCP or Azure.
+Experience working with Big Data and database systems such as oracle, MSSql.
+DevOps Mindset: Experience with Git, CI/CD, and a commitment to writing clean, maintainable, and scalable code.
+
+Bonus Skills
+Cognite Data Fusion (CDF): Direct experience with CDF Data Objects and the Industrial DataOps platform.
+Document & Unstructured Data Extraction: Experience extracting structured data from PDFs, scanned documents and images such as  invoices, POs, delivery notes, certificates using OCR, document AI, or LLM-based extraction tools.
+Standards Awareness: Knowledge of ISA-95/ISA-88 , SCOR DS standards for integrating enterprise and control systems.
+ETL pipelines for Market Intelligence data: Experience building ETL  with commodity pricing, weather, or risk-syndicate data to support supply chain resilience.
