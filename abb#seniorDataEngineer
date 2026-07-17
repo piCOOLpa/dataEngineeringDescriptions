@@ -1,0 +1,51 @@
+At ABB, we help industries run leaner and cleaner—and every person here makes that happen. You’ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world.
+
+This Position reports to:
+
+R&D Principal Engineer
+
+ 
+Your role and responsibilities:
+
+At ABB’s Common Technology Center in Bangalore, we are looking for an experienced Senior Data Engineer to drive the development of scalable cloud-based data platforms and advanced analytics solutions within Motion Traction Division.
+
+We are looking for a passionate and technically strong data engineering professional who can design and build modern data architectures, drive best practices, and contribute to our digital transformation initiatives. You are eager to learn and innovate while collaborating with global teams. You are result-oriented, responsive, and have a high sense of ownership for quality and performance. You need to be a strong communicator and team player, as you will work closely with data scientists, architects, product owners, and business stakeholders across different countries and cultures.
+ 
+
+This role is contributing to the Motion Business Traction Division in Bangalore India.
+
+You will be mainly accountable for:
+ 
+
+Design, develop, and maintain scalable ETL/ELT solutions using Azure Databricks, Azure Data Factory (ADF), and Azure Data Lake Storage (ADLS Gen2).
+
+Develop PySpark and Scala-based data processing jobs to handle large-scale batch and real-time data workloads.
+
+Build and optimize cloud-based data pipelines for high-volume, complex data transformation and integration requirements.
+
+Implement and maintain Medallion Architecture (Bronze, Silver, Gold layers) ensuring data quality, governance, and scalability.
+
+Orchestrate data workflows using Azure Data Factory and manage CI/CD pipelines through Azure DevOps.
+
+Perform data modeling, partitioning, optimization, and performance tuning across the data platform.
+
+Monitor and optimize data pipelines for reliability, performance, and cost efficiency.
+
+Collaborate with product owners, data scientists, architects, and business stakeholders to translate business requirements into data solutions. Lead data engineering initiatives, establish coding standards, and mentor junior engineers and Promote a culture of continuous improvement, innovation, and technical excellence within the team.
+
+Qualifications for the role :
+Bachelor’s or Master’s degree in Computer Science, Engineering, Information Technology, or related field with 8+ years of experience in Data Engineering and Big Data technologies.
+
+Minimum 5 years of hands-on experience with Azure cloud platforms including Azure Databricks, Azure Data Factory, ADLS Gen2, and Azure DevOps.
+
+Strong expertise in PySpark, Scala, Python, and SQL for large-scale data processing and analytics solutions.
+
+Proven experience designing and implementing scalable ETL/ELT pipelines and modern data architectures.
+
+Strong knowledge of Data Warehousing, Lakehouse architecture, Delta Lake, Parquet, and Data Governance practices.
+
+Experience in building and optimizing distributed data processing solutions in production environments. Knowledge of Git, CI/CD practices, and Agile software development methodologies.
+
+Exposure to real-time data processing technologies such as Azure Event Hub, Stream Analytics, and Spark Streaming is an added advantage.
+
+Knowledge of Machine Learning, Deep Learning, and related frameworks is an added advantage. Experience in Industrial IoT, Manufacturing, Automotive, Energy, or Sensor Data Analytics domains is an added advantage.
